@@ -50,20 +50,26 @@ main {
 .apresentação {
     display: flex;
     justify-content: center;
-    margin: 0 auto;
+    margin: 5 auto;
+    margin-top: 3rem;
     padding: 5rem 0;
     text-align: justify;
 }
   
 .apresentação .img-apresentação {
     width: 15%;
-    margin-right: 3rem;
+    margin-right: 5rem;
     border-radius: 50%;
     overflow: hidden;
 }
   
 .apresentação2 a {
     color: orange;
+}
+
+.apresentação2 p {
+  margin-top: 2rem;
+  font-size: 20px;
 }
   
 .apresentação .apresentação2 {
